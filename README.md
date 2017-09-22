@@ -5,7 +5,7 @@
 在cmd命令行输入：
 vue init webpack FirstVue
 # 相关项的配置：
-<img src=""/>
+<img src="https://github.com/jinhuizxc/FirstVue/blob/master/screenshots/1.png"/>
 ## Build Setup 依赖配置
 
 ``` bash
