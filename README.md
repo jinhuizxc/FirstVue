@@ -18,7 +18,7 @@ npm run dev
 # build for production with minification  打包发布，生成的文件在dist文件夹中
 npm run build
 
-# build for production and view the bundle analyzer report
+# build for production and view the bundle analyzer report 构建产品并查看bundle analyzer报告
 npm run build --report
 ```
 
