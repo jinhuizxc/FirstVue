@@ -9,13 +9,13 @@ vue init webpack FirstVue
 ## Build Setup 依赖配置
 
 ``` bash
-# install dependencies
+# install dependencies 安装依赖
 npm install
 
-# serve with hot reload at localhost:8080
+# serve with hot reload at localhost:8080 打包预览
 npm run dev
 
-# build for production with minification
+# build for production with minification  打包发布，生成的文件在dist文件夹中
 npm run build
 
 # build for production and view the bundle analyzer report
