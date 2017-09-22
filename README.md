@@ -1,8 +1,12 @@
 # firstvue
 
 > a vue project
-
-## Build Setup
+# 创建项目
+在cmd命令行输入：
+vue init webpack FirstVue
+# 相关项的配置：
+<img src=""/>
+## Build Setup 依赖配置
 
 ``` bash
 # install dependencies
